@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+CJdht4lETo3R4fPE5kXaxVsg6aM2nt/47mQXyjOGO5gprR8byu+JlOOPTphy8I1EeswrJAe0bmVhpuM93/fLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devansh.t\\Desktop\\Projects\\MiniProject1\\DisplayItems\\DisplayItems.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devansh.t\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\devansh.t\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\devansh.t\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\devansh.t\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\devansh.t\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\devansh.t\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
